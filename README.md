@@ -32,3 +32,9 @@ After cleaning and transforming the data, create interactive visualizations to a
 - Top 5 states by sales
 - Profit by category
 - Sales by regions
+
+## Global Superstore Sales Analysis Dashboard
+![Dashboard](https://github.com/user-attachments/assets/0ec6f5ca-31bf-4c52-92f8-0747ff1de615)
+
+
+
